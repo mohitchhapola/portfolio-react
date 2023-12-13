@@ -10,7 +10,7 @@ function Header() {
       <div className="center">
       <img className="cyberpunk dotted" width={"245px"} src={mohit} alt="" />
       </div>
-      <h2 className='cyberpunk glitched'>RECENTLY LEARNING, SOON WILL APPEAR ON JOB </h2>
+      <h2 className='cyberpunk glitched'>I AM THE CODE, DONT INSPECT IT </h2>
       
     </section>
     <section className="cyberpunk black">
